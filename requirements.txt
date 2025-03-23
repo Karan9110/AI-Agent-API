@@ -1,0 +1,19 @@
+#----------------------------------\
+# AI Agent                          |
+#----------------------------------/
+langchain 
+wikipedia 
+langchain-community 
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+duckduckgo-search
+#----------------------------------\
+# FastAPI                           |
+#----------------------------------/
+fastapi
+uvicorn[standard]
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
